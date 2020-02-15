@@ -49,7 +49,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name’s Kamil and I'm studying in Internet Engineering Technology, Gadjah Mada University.
   I 'am very Interested in <mark>Programming</mark> and <mark>Networking</mark>. As well as Network Engineer I also have experience making software and web apps.<br><br>
-  I 'am have skilled in: <mark>Network Engineer</mark> such as Network Architecture, Network Configuration, Network Throubleshooting  and <mark>Backend Web Programming</mark> in various programming languages ​​such as PHP, Javascript, Python, Java, Go, and Ruby
+  I 'am have skilled in: <mark>Network Engineer</mark> such as Network Architecture, Network Configuration, Network Throubleshooting  and <mark>Backend Web Programming</mark> in various programming languages ​​such as PHP, Javascript, Python, Java, Go, and Ruby.
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
