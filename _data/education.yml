@@ -1,10 +1,9 @@
 # Education Template
 - layout: left
-  name: Gadjah Mada University
-  dates: 2017 - Present
-  qualification: Internet Engineering Tehnology
+  name: Institution name
+  dates: Date Range (eg. 2016 - 2019)
+  qualification: Qualifications (eg. BA Performing Arts)
   quote: >
-    Established in 1949, Gadjah Mada University was born from the scene of Indonesia's independence struggle. Founded in the early independence period, UGM was asked as the National Science and Culture Center for the organization of national higher education.
+    Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    I majored in internet engineering technology where I studied more deeply about networks such as network architecture, network protocols, network configuration, network technology, network programming, network security.Also study information security, virtualization, containers and much more.
-    
+    Description of qualification
