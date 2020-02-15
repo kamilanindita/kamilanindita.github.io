@@ -4,30 +4,6 @@
   link: github.com/kamilanindita/nms-web-phpsnmp
   github: kamilanindita
   quote: >
-     Student Internship Project at Satellite Technology Center (National Institute of Aeronautics and Space)
-  #  Short overview of the project (optional)
+    Student Internship Project at Satellite Technology Center (National Institute of Aeronautics and Space)
   description: | # this will include new lines to allow paragraphs
-  #  Description about the work on/with the project
-     Design and implement a Network Management System for fault management and Accounting management uses SNMP to obtain information from an organization
-     network devices and display information via the web and can report port device network failure via social media telegram
-    
-- layout: top-middle
-  name: Addition of the NACM feature
-  link: github.com/kamilanindita/addition-of-the-NACM-feature
-  github: kamilanindita/
-  quote: >
-    Project in Kerja Bengkel Course 1 in semester 5
-  # Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-  # Description about the work on/with the project
-    The addition of the NACM (Network Automation Configuration Management) feature for static IPv6 and ospfv3 routing on the Mikrotik device
-    
-- layout: top-middle
-  name: Parking Integration
-  link: github.com/kamilanindita/
-  github: kamilanindita/
-  quote: >
-    Upload process
-  #  Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-  #  Description about the work on/with the project
+    Design and implement a Network Management System for fault management and Accounting management uses SNMP to obtain information from an organization network devices and display information via the web and can report port device network failure via social media telegram
