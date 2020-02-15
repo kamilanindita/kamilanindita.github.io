@@ -10,7 +10,7 @@ email: kamilanindita@gmail.com
 #phone: Your phone number (optional)
 #website: Your website (eg. https://google.com)(optional)
 
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username: kamilanindita28
@@ -29,10 +29,10 @@ linkedin_username: kamil-anindita-390452189
 
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#additional_links:
+#- title: Link name
+#  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
