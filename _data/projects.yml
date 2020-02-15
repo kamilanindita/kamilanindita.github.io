@@ -9,7 +9,7 @@
   description: | # this will include new lines to allow paragraphs
   #  Description about the work on/with the project
      Design and implement a Network Management System for fault management and Accounting management uses SNMP to obtain information from an organization
-     network devices and display information via the web and can report port device network failure via social media telegram.
+     network devices and display information via the web and can report port device network failure via social media telegram
     
 - layout: top-middle
   name: Addition of the NACM feature
@@ -20,7 +20,7 @@
   # Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
   # Description about the work on/with the project
-    The addition of the NACM (Network Automation Configuration Management) feature for static IPv6 and ospfv3 routing on the Mikrotik device.
+    The addition of the NACM (Network Automation Configuration Management) feature for static IPv6 and ospfv3 routing on the Mikrotik device
     
 - layout: top-middle
   name: Parking Integration
