@@ -6,7 +6,7 @@
   quote: >
     Student Internship Project at Satellite Technology Center (National Institute of Aeronautics and Space)
   description: | # this will include new lines to allow paragraphs
-    Design and implement a Network Management System for fault management and Accounting management uses SNMP to obtain information from an organization network devices and display information via the web and can report port device network failure via social media telegram.
+    Design and implement a Network Management System for fault management and Accounting Management using SNMP to obtain information from an organization network devices and display information via web and able to report the port device network failure via social media telegram.
     
 - layout: top-middle
   name: Addition of the NACM feature
