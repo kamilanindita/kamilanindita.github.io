@@ -47,7 +47,7 @@ linkedin_username: kamil-anindita-390452189
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Kamil and I am student of Internet Engineering Technology in Gadjah Mada University. I am very interested in  <mark>Programming</mark> and  <mark>Networking</mark>. As well as Network Engineer, I also have experience in making software and web apps.<br><br>
+  Hi, my name is Kamil and I am student of Internet Engineering Technology in Gadjah Mada University. I am very interested in  <mark>Programming</mark> and  <mark>Networking</mark>. As well as Network Engineer, I also have experience in Web Developer.<br><br>
   I have skills in <mark>Network Engineer</mark> such as Network Architecture, Network Configuration, Network Throubleshooting and <mark>Backend Web Programming</mark> in various programming languages such as PHP, Javascript, Python, Java, Go, and Ruby.
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -61,7 +61,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  Alongside my interests in networks and programming some of my other interests and hobbies are:
   - Football and Futsal
   - Traveling
 
